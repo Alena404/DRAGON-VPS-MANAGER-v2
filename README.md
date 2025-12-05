@@ -76,7 +76,15 @@ Below are the optimizations made to the SSH user management script for better pe
 **_Update System Packages and Install SCRIPT_**
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Alena404/DRAGON-VPS-MANAGER-v2/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y;  https://raw.githubusercontent.com/Drlaravel/DRAGON-VPS-MANAGER-v2
+
+```
+```
+sudo git clone  https://github.com/Alena404/DRAGON-VPS-MANAGER-v2
+
+```
+```
+ chmod 777 hehe;./hehe
 
 ```
 
